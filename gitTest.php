@@ -9,3 +9,5 @@ function result()
     echo json_encode($rand);
 }
 result();
+
+//123
